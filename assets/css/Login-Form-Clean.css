@@ -1,0 +1,450 @@
+.login-clean {
+  background: rgba(241,247,252,0);
+}
+
+.login-clean form .form-control {
+  background: #f7f9fc;
+  border: none;
+  border-bottom: 1px solid #dfe7f1;
+  border-radius: 0;
+  box-shadow: none;
+  outline: none;
+  color: inherit;
+  text-indent: 8px;
+  height: 42px;
+}
+
+.login-clean form .btn-primary {
+  background: #4763f4;
+  border: none;
+  border-radius: 4px;
+  padding: 11px;
+  box-shadow: none;
+  text-shadow: none;
+  outline: none !important;
+}
+
+.login-clean form .btn-primary:hover, .login-clean form .btn-primary:active {
+}
+
+.login-clean form .btn-primary:active {
+  transform: translateY(1px);
+}
+
+.login-clean form .forgot {
+  display: block;
+  text-align: center;
+  font-size: 12px;
+  color: #6f7a85;
+  opacity: 0.9;
+  text-decoration: none;
+}
+
+.login-clean form .forgot:hover, .login-clean form .forgot:active {
+  opacity: 1;
+  text-decoration: none;
+}
+
+.myp {
+  text-align: left;
+}
+
+.myp1 {
+  color: rgb(157,148,148);
+}
+
+.h4, h4 {
+  font-size: 20px;
+}
+
+.h2, h2 {
+  font-size: 30px;
+}
+
+.container.con1 {
+  margin-top: 20px;
+  border: 2px;
+  border-radius: 10px;
+}
+
+.card1 {
+  color: rgb(255,255,255);
+  font-size: 12PX;
+  font-weight: 700;
+  margin-right: 20px;
+  margin-left: 20px;
+  font-family: Calibri;
+  background-color: blue;
+  border-radius: 5px;
+}
+
+.jumbotron {
+}
+
+.jumbotron {
+  background: url("../../assets/img/shade.jpg") center/cover no-repeat;
+  height: 300px;
+}
+
+@media (min-width: 768px) {
+  .jumbotron {
+    height: 500px;
+  }
+}
+
+.btn:not(:disabled):not(.disabled) {
+}
+
+.text-left.myp2 {
+  padding-top: 40%;
+}
+
+.btn:not(:disabled):not(.disabled) {
+}
+
+.text-left {
+}
+
+.text-left.firsthead {
+  font-size: 25px;
+}
+
+.h3, h3 {
+  color: white;
+  font-size: 30px;
+  text-align: left;
+}
+
+@media (min-width: 768px) {
+  .h3, h3 {
+    font-size: 50px;
+  }
+}
+
+.btn-outline-primary:not(:disabled):not(.disabled).active, .btn-outline-primary:not(:disabled):not(.disabled):active, .show > .btn-outline-primary.dropdown-toggle {
+  margin-top: 10px;
+}
+
+.mygradientbody {
+  background: linear-gradient(rgb(45,44,44) 4%, rgb(64,62,62) 18%, rgb(86,86,86) 18%, rgb(58,59,59) 20%, rgb(19,228,90) 43%, rgb(45,48,46) 81%, rgb(71,68,68) 96%, rgb(55,55,55) 100%), rgb(25,194,103);
+}
+
+.testimonials-clean {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.col-md-6.col-lg-4.item {
+}
+
+.col-md-6.col-lg-4.item {
+  margin-left: 20px;
+  margin-right: 20px;
+  opacity: 1;
+  box-shadow: 0px 0px 20px rgb(149,168,187);
+  border-radius: 20px;
+  border: 1px solid rgb(255,255,255);
+}
+
+.divicon {
+  text-align: left;
+  margin-bottom: 10px;
+  margin-left: 15%;
+}
+
+.test-icon {
+  margin-right: 20px;
+  padding: 10px;
+  border: 1px;
+  border-radius: 15px;
+  background-color: rgb(99,239,172);
+  color: rgb(108,106,106);
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color: white;
+}
+
+.card.mythumbnail {
+}
+
+.card-img-top.w-100.d-block.myimg {
+  margin-left: 35%;
+}
+
+.card-text.mytext {
+  font-size: 10px;
+}
+
+.btn-group > .btn-group:not(:first-child) > .btn, .btn-group > .btn:not(:first-child) {
+}
+
+.btn-group > .btn-group:not(:last-child) > .btn, .btn-group > .btn:not(:last-child):not(.dropdown-toggle) {
+  margin-right: 10px;
+  background-color: rgb(0,223,129);
+}
+
+.btn-group > .btn-group:not(:first-child) > .btn, .btn-group > .btn:not(:first-child) {
+  background-color: rgb(0,223,129);
+}
+
+.container.con2 {
+  background: linear-gradient(rgb(64,61,61) 1%, rgb(0,255,133) 42%, rgb(69,69,69) 100%);
+  padding: 20px;
+}
+
+.nav.nav-tabs.mynav2 {
+  margin-top: 20px;
+}
+
+.thumbnail-div {
+  background-color: white;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  border-radius: 5px;
+}
+
+.p4 {
+  text-align: left;
+  font-size: 14px;
+  color: rgb(136,136,136);
+}
+
+.icon2 {
+  font-size: 20px;
+  color: #817878;
+}
+
+.myimg {
+}
+
+.topimg {
+  width: 50%;
+  border-radius: 114.5px;
+}
+
+.btn.btn-primary.btn-sm.profile-button {
+  background-color: rgba(0,0,255,0);
+  color: blue;
+}
+
+.text-left.mytext2 {
+  color: rgb(133,133,133);
+  font-size: 16px;
+}
+
+label {
+}
+
+.myjumbo {
+}
+
+.promo {
+  background-color: white;
+  padding: 15px;
+  margin-left: 25px;
+  margin-right: 25px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-radius: 5px;
+}
+
+.mylink {
+  margin-left: 20px;
+}
+
+.btn.btn-primary.btn-sm.mybutton {
+  background-color: blue;
+}
+
+.mypa {
+  font-size: 8px;
+}
+
+.s1 {
+  background-color: rgb(82,82,82);
+  color: white;
+  padding: 1px;
+  border-radius: 5px;
+}
+
+.btn:not(:disabled):not(.disabled) {
+}
+
+.form-control {
+}
+
+.mycol {
+  text-align: center;
+}
+
+.mycol {
+}
+
+.card-body.mycard1 {
+  text-align: center;
+}
+
+.btn-secondary:not(:disabled):not(.disabled).active, .btn-secondary:not(:disabled):not(.disabled):active, .show > .btn-secondary.dropdown-toggle {
+  background-color: blue;
+}
+
+.jumbotron.myjumbotron {
+}
+
+.promo2 {
+  padding-top: 100%;
+  background: url("../../assets/img/shade2.jpg") center / cover no-repeat;
+  padding-bottom: 20%;
+}
+
+.myh1 {
+  color: white;
+}
+
+.PROMO3 {
+  padding: 30px;
+  border: 1px solid;
+  border-color: white;
+  margin-bottom: 10px;
+}
+
+.fa.fa-star.icon3 {
+  color: blue;
+}
+
+.h4, h4 {
+  color: white;
+}
+
+.p5 {
+  margin-left: 12%;
+}
+
+.container.mygradientbody {
+}
+
+.mybody {
+  padding: 10px;
+}
+
+.h2, h2 {
+  text-align: center;
+}
+
+.newspan {
+  color: rgb(0,255,163);
+}
+
+.anodiv {
+  font-size: 20px;
+}
+
+.whitelink {
+  color: white;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+}
+
+.coolfooter {
+  background-color: white;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+}
+
+.divicon {
+}
+
+.text-left.blacklink {
+  color: rgb(50,45,45);
+}
+
+.arrowhead {
+  margin-top: 8%;
+}
+
+.col {
+}
+
+.newdiv {
+  height: 50%;
+}
+
+.nav.nav-tabs.footer-navigation {
+  position: fixed;
+}
+
+.arrowlink {
+  color: black;
+  font-size: 14px;
+}
+
+.arrowdiv {
+  background: white;
+  box-shadow: 0px 0px 5px 0px;
+  border-radius: 10px;
+}
+
+.fa.fa-mobile-phone.arrowicon {
+  font-size: 40px;
+  color: blue;
+}
+
+.p6 {
+  padding-bottom: 10px;
+}
+
+.container.arrowcontainer {
+  margin-top: 20px;
+}
+
+.col-3.mycol2 {
+  background: url("../../assets/img/MTN_Logo.svg.png")center/cover;
+}
+
+.col-3.mycol3 {
+  background: url("../../assets/img/1200x630wa.png")center/cover;
+}
+
+.fa.fa-star.money-icon {
+}
+
+.p9 {
+  margin-left: 16%;
+}
+
+.h7 {
+  margin-left: 3%;
+}
+
+.fa.fa-square.moneyicon {
+  padding: 3%;
+  background-color: #80caff;
+  border-radius: 26px;
+  color: #070762;
+}
+
+.author {
+}
+
+.fa.fa-suitcase.moneyicon {
+  padding: 3%;
+  background-color: #80caff;
+  border-radius: 26px;
+  color: #070762;
+}
+
+.newform {
+  margin-top: 0px;
+}
+
+.newdivision {
+  border: 1px solid black;
+}
+
+.networkicon {
+  width: 20%;
+}
+

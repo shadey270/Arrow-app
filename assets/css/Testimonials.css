@@ -1,0 +1,169 @@
+.testimonials-clean {
+  color: #313437;
+  background-color: #ffffff;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  border-radius: 5px;
+}
+
+.testimonials-clean p {
+  color: #7d8285;
+}
+
+.testimonials-clean h2 {
+  font-weight: bold;
+  margin-bottom: 40px;
+  padding-top: 40px;
+  color: inherit;
+}
+
+@media (max-width:767px) {
+  .testimonials-clean h2 {
+    margin-bottom: 25px;
+    padding-top: 25px;
+    font-size: 24px;
+  }
+}
+
+.testimonials-clean .intro {
+  max-width: 500px;
+  margin: 0 auto;
+}
+
+.testimonials-clean .intro p {
+  margin-bottom: 0;
+}
+
+.testimonials-clean .people {
+  padding: 50px 0 20px;
+}
+
+.testimonials-clean .item {
+  margin-bottom: 32px;
+}
+
+@media (min-width:768px) {
+  .testimonials-clean .item {
+    height: 220px;
+  }
+}
+
+.testimonials-clean .item .box {
+  padding: 30px;
+  background-color: #fff;
+  position: relative;
+}
+
+.testimonials-clean .item .box:after {
+  content: '';
+  position: absolute;
+  left: 30px;
+  bottom: -24px;
+  width: 0;
+  height: 0;
+  border: 15px solid transparent;
+  border-width: 12px 15px;
+  border-top-color: #fff;
+}
+
+.testimonials-clean .item .author {
+  margin-top: 20px;
+  padding-left: 25px;
+}
+
+.testimonials-clean .item .name {
+  font-weight: bold;
+  margin-bottom: 2px;
+  color: inherit;
+}
+
+.testimonials-clean .item .title {
+  font-size: 10px;
+  color: #9da9ae;
+}
+
+.testimonials-clean .item .description {
+  font-size: 15px;
+  margin-bottom: 0;
+}
+
+.testimonials-clean .item img {
+  max-width: 40px;
+  float: left;
+  margin-right: 12px;
+  margin-top: -5px;
+}
+
+.rounded-circle {
+  max-width: 40px;
+  float: left;
+}
+
+.span1 {
+  font-size: 12px;
+  color: rgb(11,222,121);
+}
+
+.text-left.profileh4 {
+  color: blue;
+}
+
+.text-left.p4 {
+  font-size: 12px;
+}
+
+.text-right.sup {
+  color: rgb(132,129,129);
+  font-size: 12px;
+}
+
+.p4 {
+  margin-left: 30px;
+  text-align: left;
+}
+
+.row.people {
+  background-color: white;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  margin-bottom: 30px;
+}
+
+.text-left.acthd {
+  font-size: 16px;
+}
+
+.text-left.title {
+}
+
+.text-left.mytitle {
+}
+
+.text-left.anotherp {
+  font-size: 10px;
+}
+
+.profilediv {
+  padding-left: 18%;
+  padding-top: 2%;
+}
+
+.col-md-6.col-lg-4.item {
+  margin-bottom: 30px;
+}
+
+.mytitle2 {
+  text-align: left;
+  font-size: 12px;
+  border: 1px solid;
+  border-color: rgb(205,202,202);
+}
+
+.float-right {
+  margin-top: 15px;
+}
+
+.btn.btn-primary.active.btn-block.btn-sm {
+  background-color: rgb(0,71,255);
+}
+
